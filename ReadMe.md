@@ -10,4 +10,7 @@
 - [Markdown (para ReadMe.md e afins)](https://www.markdownguide.org/basic-syntax/)
 
 ## Exercícios
+<img align="right" height="200px" style="margin-right:10px;margin-top:5px" src="rick-roll-rick-ashley.gif">
+
+- Lorem ipsum
 
