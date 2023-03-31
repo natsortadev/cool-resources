@@ -7,7 +7,7 @@
 - [Um vídeo bacana para pegar a parte mais teórica/conceitual do Git](https://youtu.be/6Czd1Yetaac)
 - [Playlist maneira de códigos](https://youtube.com/playlist?list=PLG6_PMcMGdN6WMkgDnFMFn-0MeEaftZvD)
 - [Tutoriais online para diversas linguagens](https://www.w3schools.com/)
-<br><br><br>
+- [Markdown (para ReadMe.md e afins)](https://www.markdownguide.org/basic-syntax/)
 
 ## Exercícios
 
