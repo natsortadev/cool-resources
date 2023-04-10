@@ -13,5 +13,7 @@
 ## Exercícios
 <img align="right" height="200px" style="margin-right:10px;margin-top:5px" src="rick-roll-rick-ashley.gif">
 
-- Lorem ipsum
+- [CodeWars](https://www.codewars.com/dashboard)
+- [Beecrowd](https://www.beecrowd.com.br/judge/pt)
+- [CodePen](https://codepen.io/trending)
 
