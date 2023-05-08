@@ -10,6 +10,7 @@
 - [Tutoriais para diversas linguagens](https://www.w3schools.com/)
 - [Tutorial de Git da W3Schools](https://www.w3schools.com/git/default.asp)
 - [Markdown (para ReadMe.md e afins)](https://www.markdownguide.org/basic-syntax/)
+- [Algoritmo das rainhas com backtracking explicado usando balé (sim, eu sei)](https://youtu.be/R8bM6pxlrLY)
 
 ## Exercícios
 <img align="right" height="200px" style="margin-right:10px;margin-top:5px" src="rick-roll-rick-ashley.gif">
